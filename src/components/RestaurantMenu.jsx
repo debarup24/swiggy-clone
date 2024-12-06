@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { CDN_URL, LOCATION_ICON } from "../utils/constants.js";
+import { CDN_URL, LOCATION_ICON } from "../utils/constants.jsx";
 import RestaurantCategories from "./RestaurantCategories.jsx";
 import MenuPageShimmer from "../shimmer/MenuPageShimmer.jsx";
 import StarIcon from "./StarIcon.jsx";
